@@ -1,0 +1,2 @@
+US|::1|http://localhost/PayPal2021/|1651776568|Login page
+US|::1|http://localhost/PayPal2021/?country.x=US&locale.x=en_US%3E&client=1c8bc12f8719737866bf55555cc19973|1651776601|Billing page

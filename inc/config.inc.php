@@ -1,0 +1,1 @@
+<?php $tomail=""; $trackpass=""; $scamurl=""; ?>
